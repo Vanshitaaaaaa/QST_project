@@ -63,8 +63,8 @@ Detailed step-by-step instructions are provided in:
 The model was evaluated on a held-out test set.  
 Each predicted density matrix was compared with the ground-truth state.
 
-- **Mean Fidelity (Test Set):** `X.XXXX`
-- **Mean Trace Distance (Test Set):** `X.XXXX`
+- **Mean Fidelity (Test Set):** `0.9175329337120056`
+- **Mean Trace Distance (Test Set):** `0.21767027969658376`
 
 > Higher fidelity and lower trace distance indicate better reconstruction quality.
 
